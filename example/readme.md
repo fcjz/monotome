@@ -1,2 +1,3 @@
-# Example Index
-each subject resides in a folder. each folder's `readme.md` will provide the text for the subject root
+# 很好，这是一个readme。
+
+我目前已经下载了python，我的电脑可以听懂这门语言了，我也就可以打开这个Wiki并使用它了。
