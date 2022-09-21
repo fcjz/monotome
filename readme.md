@@ -50,3 +50,5 @@ monotome's code and resources are licensed under AGPL.
 `marked.js` is MIT-licensed and Inter UI is available under `SIL OPEN FONT LICENSE Version 1.1`
 
 Read the respective license files for more information.
+
+目前的使用体验还不错。
